@@ -6,3 +6,7 @@
 3. Update the GCS_PATH to GCS_PATH = '/kaggle/input/monet-gan-getting-started'
 4. Click Settings -> Accelerator -> GPU T4 x2 (TPU might be better idk)
 5. Run all cells and wait for it to finish.
+
+### Scores/Improvements:
+- Baseline: 66.83520
+- Data Preprocessing Improvements (Random Jitters + Mirrors): 63.54741
