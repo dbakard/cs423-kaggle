@@ -9,4 +9,9 @@
 
 ### Scores/Improvements:
 - Baseline: 66.83520
+- Improved: 47.02467
 - Data Preprocessing Improvements (Random Jitters + Mirrors): 63.54741
+- Contrast, Saturation, and Hue Adjustments: 74.97464
+- Random Roatation: 70.31532
+- DiffAugment + TPU: 47.36420
+- HyperParam + DiffAugment + TPU: 47.02467
